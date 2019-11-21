@@ -1,0 +1,8 @@
+File Changed: PathC:\Users\dung\Documents\ssss.txt, Name: ssss.txt 
+File Changed: PathC:\Users\dung\Documents\ssss.txt, Name: ssss.txt 
+File Created: PathC:\Users\dung\Documents\TeraCopyTestFile-1234567890, Name: TeraCopyTestFile-1234567890 
+File Deleted: PathC:\Users\dung\Documents\TeraCopyTestFile-1234567890, Name: TeraCopyTestFile-1234567890 
+File Created: PathC:\Users\dung\Documents\ssss - Copy.txt, Name: ssss - Copy.txt 
+File Changed: PathC:\Users\dung\Documents\ssss - Copy.txt, Name: ssss - Copy.txt 
+File Changed: PathC:\Users\dung\Documents\ssss - Copy.txt, Name: ssss - Copy.txt 
+File Changed: PathC:\Users\dung\Documents\sssss.txt, Name: sssss.txt 

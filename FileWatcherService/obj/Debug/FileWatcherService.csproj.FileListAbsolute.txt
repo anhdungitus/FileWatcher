@@ -1,0 +1,6 @@
+C:\Users\dung\source\repos\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe.config
+C:\Users\dung\source\repos\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+C:\Users\dung\source\repos\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.pdb
+C:\Users\dung\source\repos\FileWatcherService\FileWatcherService\obj\Debug\FileWatcherService.csprojAssemblyReference.cache
+C:\Users\dung\source\repos\FileWatcherService\FileWatcherService\obj\Debug\FileWatcherService.exe
+C:\Users\dung\source\repos\FileWatcherService\FileWatcherService\obj\Debug\FileWatcherService.pdb
